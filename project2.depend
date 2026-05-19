@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1779122572 source:d:\c++ lab reports code\project2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
